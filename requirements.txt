@@ -1,0 +1,9 @@
+langchain
+# python-dotenv
+# ipykernel
+# pandas
+langchain-groq
+# mysql-connector-python
+# torch 
+# torchvision 
+# torchaudio
